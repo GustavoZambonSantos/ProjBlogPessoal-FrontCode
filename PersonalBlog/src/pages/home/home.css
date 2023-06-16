@@ -1,6 +1,7 @@
 .titulo{
     color: blue;
     text-align: center;
+    box-shadow: inset;
 }
 
 .img{
